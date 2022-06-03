@@ -27,11 +27,12 @@ namespace APIBookstore.Controllers
             _context.SaveChanges();
 
 
-            _context.TodoProducts.Add(new Product { Id = "1", Name = "Book1", Price = 24, Quantity = 1, Category = "action", Img = "img1" });
-            _context.TodoProducts.Add(new Product { Id = "2", Name = "Book2", Price = 50, Quantity = 1, Category = "action", Img = "img2" });
-            _context.TodoProducts.Add(new Product { Id = "3", Name = "Book3", Price = 20, Quantity = 2, Category = "action", Img = "img3" });
-            _context.TodoProducts.Add(new Product { Id = "4", Name = "Book4", Price = 10, Quantity = 1, Category = "action", Img = "img1" });
-            _context.TodoProducts.Add(new Product { Id = "5", Name = "Book5", Price = 15, Quantity = 5, Category = "action", Img = "img1" });
+            _context.TodoProducts.Add(new Product { Id = "1", Name = "O Sol é Para Todos", Price = 24, Quantity = 1, Category = "romance", Img = "img1" });
+            _context.TodoProducts.Add(new Product { Id = "2", Name = "Mulheres que correm com os lobos", Price = 39, Quantity = 1, Category = "não ficção", Img = "img2" });
+            _context.TodoProducts.Add(new Product { Id = "3", Name = "O Averso da pele", Price = 40, Quantity = 2, Category = "romance", Img = "img3" });
+            _context.TodoProducts.Add(new Product { Id = "4", Name = "A Revolução dos bichos", Price = 14, Quantity = 1, Category = "sátira", Img = "img4" });
+            _context.TodoProducts.Add(new Product { Id = "5", Name = "Extraordinário", Price = 24, Quantity = 5, Category = "romance", Img = "img5" });
+            _context.TodoProducts.Add(new Product { Id = "6", Name = "A cabana", Price = 18, Quantity = 5, Category = "suspense", Img = "img6" });
 
 
 
