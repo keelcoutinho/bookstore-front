@@ -32,7 +32,8 @@ namespace APIBookstore.Controllers
             _context.TodoProducts.Add(new Product { Id = "3", Name = "O Averso da pele", Price = 40, Quantity = 2, Category = "romance", Img = "img3" });
             _context.TodoProducts.Add(new Product { Id = "4", Name = "A Revolução dos bichos", Price = 14, Quantity = 1, Category = "sátira", Img = "img4" });
             _context.TodoProducts.Add(new Product { Id = "5", Name = "Extraordinário", Price = 24, Quantity = 5, Category = "romance", Img = "img5" });
-            _context.TodoProducts.Add(new Product { Id = "6", Name = "A cabana", Price = 18, Quantity = 5, Category = "suspense", Img = "img6" });
+            _context.TodoProducts.Add(new Product { Id = "6", Name = "A cabana", Price = 18, Quantity = 5, Category = "suspense", Img = "img6" }); 
+            
 
 
 
