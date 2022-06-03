@@ -1,0 +1,18 @@
+.card1{
+    align-items: center;
+    color: rgb(103, 37, 164);
+}
+.form-group{
+    color: blueviolet;
+}
+
+.btn1{
+    background:  hsla(197, 100%, 63%, 1);
+    align-items: center;
+    margin-right: 50px;
+    margin-left: 50px;
+    border-color: aliceblue;
+    color: azure;
+    font-family:  Calibri;
+    font-size: 15px;
+}

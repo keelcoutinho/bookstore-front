@@ -1,0 +1,21 @@
+.img-responsive{
+    width: 90px;
+    height: 90px;
+    text-align: left;
+    font-family: Franklin Gothic Medium;
+    margin-left: 0%;
+}
+
+.tx-t{
+   font-style: oblique;
+   font-family: URW Chancery L;
+   font-size: 200%;
+   color: #0061ff;
+   margin-top: 400%;
+}
+
+.tx-t2{
+    font-style: unset;
+    font-family: Chalkduster;
+    color: blueviolet;
+}

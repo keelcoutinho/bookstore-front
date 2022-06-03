@@ -1,0 +1,43 @@
+.footer{
+    background: linear-gradient(90deg, hsla(197, 100%, 63%, 1) 0%, hsla(294, 100%, 55%, 1) 100%);
+    align-items: center;
+    text-align: center;
+}
+h5{
+    margin-top: 8px;
+    margin-left: 30px;
+    margin-bottom: 0%;
+    font-family: URW Chancery L;
+
+}
+.redes{
+    display: inline;
+    color: rgb(4, 72, 131);
+    float: right;
+    margin-right: 15px;
+    padding-right: 15px;
+    font-size: small;
+    padding: auto;
+    font-family: Gill Sans;
+}
+.i-face{
+    align-items: left;
+    width: 2%;
+    height: 2%;
+    margin-top: 5px;
+    margin-left: 5px;
+}
+.i-insta{
+    align-items: left;
+    width: 2%;
+    height: 2%;
+    margin-top: 5px;
+    margin-left: 5px;
+}
+.i-linkedin{
+    align-items: left;
+    width: 2%;
+    height: 2%;
+    margin-top: 5px;
+    margin-left: 5px;
+}

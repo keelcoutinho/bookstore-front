@@ -1,0 +1,49 @@
+.bg-menu{
+    background: linear-gradient(90deg, hsla(197, 100%, 63%, 1) 0%, hsla(294, 100%, 55%, 1) 100%);
+    align-items: left; 
+    display: flex;
+}
+
+.alig-bg{
+    align-items: center;
+    display: flex;
+}
+
+.mb-3{
+    align-items: center;
+    width: 30%;
+}
+
+.login{
+    width:80%;
+    height: 80%;
+    color: aliceblue;
+    border: 0;
+    box-sizing: border-box;
+    align-items: right;
+  
+    
+}
+.lg-1{
+    align-items: right;
+    position: right;
+}
+.a-lg{
+    padding: 0;
+    position:relative;
+    width: 60px;
+    height: 60px;
+}
+.nav-1{
+    align-items: center;
+    width: 40%;
+    font-size: 25px;
+    font-family: URW Chancery L;
+    box-sizing: border-box;    
+    
+}
+.nav-2{
+    padding: 20px;
+    box-sizing: border-box;
+    display: flex;
+}
